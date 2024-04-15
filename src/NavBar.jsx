@@ -37,6 +37,11 @@ const Navbar = () => {
             Dog
           </Link>
         </li>
+        <li className="navbar-item">
+          <Link to="/sigma" className="navbar-link">
+            Hard Sigma Male Quotes
+          </Link>
+        </li>
       </ul>
     </nav>
   );

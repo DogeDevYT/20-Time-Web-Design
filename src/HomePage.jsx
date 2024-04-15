@@ -1,6 +1,6 @@
 import React from "react";
 import "./HomePage.css";
-import lionImage from "./images/lion.jpg";
+import lionImage from "./images/lion1.jpg";
 import giraffeImage from "./images/giraffe.jpg";
 import elephantImage from "./images/elephant.jpg";
 

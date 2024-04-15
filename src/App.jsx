@@ -7,6 +7,7 @@ import SharkPage from "./SharkPage";
 import LionPage from "./LionPage";
 import DogPage from "./DogPage";
 import HomePage from "./HomePage";
+import SigmaQuote from "./SigmaQuote";
 
 const App = () => {
   return (
@@ -23,6 +24,7 @@ const App = () => {
           <Route path="/shark" element={<SharkPage />} />
           <Route path="/lion" element={<LionPage />} />
           <Route path="/dog" element={<DogPage />} />
+          <Route path="/sigma" element={<SigmaQuote />} />
         </Routes>
       </div>
     </Router>
